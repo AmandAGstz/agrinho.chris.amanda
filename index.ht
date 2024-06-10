@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+     <meta charset="UTF-8">
+     <META NAME="viewport" content="width=device-width, initial-scale=1.0">
+     <title>agrinho.chris.amanda</title>
+</head>
+<body>
+     <header>
+          <h1>agrinho.chris.amanda</h1>
+          <a href="#">Sobre nós</a>
+          <a href="#">Saiba mais</a>
+     </header>
+    
+     <section>
+          <img src="#" alt="descrição">
+          <div>
+               <h2>introdução</h2>
+               <p>introdução do site</p>
+          
+          </div>
+     </section>
+     </body>
+     
