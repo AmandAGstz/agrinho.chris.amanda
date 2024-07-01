@@ -46,3 +46,7 @@ a:hover {
 p::first-line {
     font-weight: bold;
 }
+
+.chris {
+    text-align: center;
+}
